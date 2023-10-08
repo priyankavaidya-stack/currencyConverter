@@ -16,7 +16,7 @@ The Currency Converter App is a web application built using React.js that allows
 
 # Demo
 
-You can try out the live demo of the Currency Converter App [here].
+You can try out the live demo of the Currency Converter App [here](https://adorable-horse-bf1256.netlify.app/).
 
 # Usage
 
